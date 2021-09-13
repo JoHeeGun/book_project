@@ -1,9 +1,17 @@
 <template>
-  <div><h2>book page!!</h2></div>
+  <div class="container"><BookSearch /> <BookList /></div>
 </template>
 
 <script>
-export default {};
+import BookSearch from '@/components/book/BookSearch.vue';
+import BookList from '@/components/book/BookList.vue';
+
+export default {
+  components: {
+    BookSearch,
+    BookList,
+  },
+};
 </script>
 
 <style></style>

@@ -6,8 +6,9 @@ import Signup from '@/views/auth/Signup';
 import Posts from '@/views/posts/Posts';
 import PostCreate from '@/views/posts/PostCreate';
 import PostEdit from '@/views/posts/PostEdit';
-import store from '@/store/auth';
+import Book from '@/views/book/Book.vue';
 import NotFound from '@/views/NotFound.vue';
+import store from '@/store/auth';
 
 Vue.use(VueRouter);
 
@@ -40,6 +41,10 @@ const router = new VueRouter({
       path: '/post/:id',
       component: PostEdit,
       meta: { auth: true },
+    },
+    {
+      path: '/book',
+      component: Book,
     },
     {
       path: '*',
