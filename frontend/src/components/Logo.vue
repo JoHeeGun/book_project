@@ -1,6 +1,6 @@
 <template>
   <RouterLink to="/" class="logo">
-    <span>Book_Project</span>
+    <span>MBP</span>
   </RouterLink>
 </template>
 
@@ -14,6 +14,7 @@
   text-decoration: none;
   span {
     color: $primary;
+    font-weight: 800;
   }
 }
 </style>

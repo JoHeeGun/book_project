@@ -1,26 +1,32 @@
 <template>
-  <div class="container">
+  <div class="container carousel">
     <carousel :autoplay="true" :nav="false" :dots="false" class="marginTop50">
-      <div>Your Content1</div>
-      <div>Your Content2</div>
-      <div>Your Content3</div>
-      <div>Your Content4</div>
+      <div>book search image</div>
+      <div>book list click</div>
+      <div>posts crud</div>
+      <div>login/register</div>
     </carousel>
     <carousel :autoplay="true" :nav="false" :dots="false">
       <img src="@/assets/logo.png" />
 
-      <img
-        src="https://www.ui4u.go.kr/depart/img/content/sub03/img_con03030100_01.jpg"
-      />
+      <img src="https://placeimg.com/200/200/any?2" />
 
-      <img
-        src="https://mblogthumb-phinf.pstatic.net/MjAxODA4MjlfMzUg/MDAxNTM1NTA5OTQ1NjY5.aZf6k9FXHp2Hs1WobXccbC9i2lv49P09CmqGCIsK4Vcg.Bn76ZrRmvjoBNpOC4ppvM6lscit14Fw7KyWawBcOADkg.PNG.thisme73/%ED%9D%B0%ED%86%A0%EB%81%BC.png?type=w800"
-      />
+      <img src="https://placeimg.com/200/200/any?3" />
 
       <img src="https://placeimg.com/200/200/any?4" />
     </carousel>
-    홈페이지에 대한 간단한소개가 들어간다.<br />
-    사용 스킬을 이미지와 함께 나타낸다.
+    <div class="homepage">
+      <div class="htitle">MBP</div>
+      <div class="hcontent">
+        MBP는 My Book Post의 약자로 책에 대한정보를 자신만의 공간에
+        포스팅합니다.<br />
+        자신이 원하는 정보의 책을 다양한 조건으로 검색해볼 수 있습니다.<br />
+        책에 대한 추가적인 정보를 얻을 수 있습니다.<br />
+        본인만의 생각이나 견해를 자유롭게 포스팅합니다.
+      </div>
+    </div>
+    <div class="stitle">Skills</div>
+    <div class="skill">사용 스킬을 이미지와 함께 나타낸다.</div>
   </div>
 </template>
 

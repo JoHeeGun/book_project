@@ -188,6 +188,34 @@ a:hover {
 	background: #9A7B4F;
 	border: 3px solid white;
 }
+.carousel{
+	margin-top: 110px;
+}
+.homepage{
+	font-family:"돋움";
+	margin-top: 110px;
+	text-align: left;
+}
+.htitle{
+	font-size: 50px;
+	color: #9A7B4F;
+	font-weight:800;
+}
+.hcontent{
+	margin-top: 20px;
+	font-size: 20px;
+	opacity: 0.7;
+	font-style: oblique;
+}
+.stitle{
+	margin-top: 110px;
+	font-size: 50px;
+	color: #9A7B4F;
+	font-weight:800;
+}
+.skill{
+	margin-top: 20px;
+}
 // Default variable overrides
 $container-max-widths: (
   sm: 540px,
