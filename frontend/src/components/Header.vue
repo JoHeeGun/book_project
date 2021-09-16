@@ -27,7 +27,9 @@
         </div>
         <div class="auth nav nav-pills">
           <div class="nav-item">
-            <a href="javascript:;" @click="logout" class="nav-link"> Logout </a>
+            <a href="javascript:;" @click="logout" class="nav-link">
+              로그아웃
+            </a>
           </div>
         </div>
       </div>
@@ -48,27 +50,27 @@ export default {
     return {
       navigations: [
         {
-          name: 'book',
+          name: '책 검색',
           href: '/book',
         },
       ],
       auth_navigations: [
         {
-          name: 'book',
+          name: '책 검색',
           href: '/book',
         },
         {
-          name: 'posts',
+          name: '나만의 포스트',
           href: '/posts',
         },
       ],
       auth: [
         {
-          name: 'Login',
+          name: '로그인',
           href: '/login',
         },
         {
-          name: 'signup',
+          name: '회원가입',
           href: '/signup',
         },
       ],
