@@ -2,7 +2,9 @@
   <div class="container">
     <div :class="{ 'no-result': !books.length }" class="inner">
       <div v-if="message" class="message">
-        {{ message }}
+        {{ message }} <br />
+        {{ message2 }} <br />
+        {{ message3 }}
       </div>
       <div v-else class="books">
         <BookItem v-for="book in books" :key="book.isbn" :book="book" />
@@ -24,6 +26,12 @@ export default {
     },
     message() {
       return this.$store.state.book.message;
+    },
+    message2() {
+      return this.$store.state.book.message2;
+    },
+    message3() {
+      return this.$store.state.book.message3;
     },
   },
 };
