@@ -1,19 +1,15 @@
 <template>
   <div class="container carousel">
-    <carousel :autoplay="true" :nav="false" :dots="false" class="marginTop50">
-      <div>book search image</div>
-      <div>book list click</div>
-      <div>posts crud</div>
-      <div>login/register</div>
-    </carousel>
     <carousel :autoplay="true" :nav="false" :dots="false">
-      <img src="@/assets/logo.png" />
+      <img src="@/assets/p1.png" />
 
-      <img src="https://placeimg.com/200/200/any?2" />
+      <img src="@/assets/p2.png" />
 
-      <img src="https://placeimg.com/200/200/any?3" />
+      <img src="@/assets/p3.png" />
 
-      <img src="https://placeimg.com/200/200/any?4" />
+      <img src="@/assets/p5.png" />
+
+      <img src="@/assets/p4.png" />
     </carousel>
 
     <div class="htitle">MBP</div>

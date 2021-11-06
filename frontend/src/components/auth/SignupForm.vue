@@ -8,6 +8,11 @@
         v-model="username"
         class="form-control"
       />
+      <p>
+        <span v-if="!isUsernameValid && username" class="warning">
+          이메일 형식으로 작성해주세요
+        </span>
+      </p>
     </div>
     <div>
       <label for="password" class="form-label">비밀번호 </label>
@@ -34,7 +39,9 @@
 </template>
 
 <script>
+import { validateEmail } from '@/utils/validation';
 import { registerUser } from '@/api/auth';
+
 export default {
   data() {
     return {
@@ -43,6 +50,11 @@ export default {
       nickname: '',
       logMessage: '',
     };
+  },
+  computed: {
+    isUsernameValid() {
+      return validateEmail(this.username);
+    },
   },
   methods: {
     async submitForm() {
