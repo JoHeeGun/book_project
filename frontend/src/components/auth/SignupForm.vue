@@ -18,7 +18,7 @@
       <label for="password" class="form-label">비밀번호 </label>
       <input
         id="password"
-        type="text"
+        type="password"
         v-model="password"
         class="form-control"
       />

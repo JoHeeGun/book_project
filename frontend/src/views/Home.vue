@@ -1,6 +1,6 @@
 <template>
   <div class="container carousel">
-    <carousel :autoplay="true" :nav="false" :dots="false">
+    <carousel :autoplay="true" :nav="false" :dots="false" :interval="1000">
       <img src="@/assets/p1.png" />
 
       <img src="@/assets/p2.png" />
