@@ -50,9 +50,7 @@ export default {
           contents: this.contents,
         });
         this.$router.push('/posts');
-        console.log(response);
       } catch (error) {
-        console.log(error.response.data.message);
         this.logMessage = error.response.data.message;
       }
     },

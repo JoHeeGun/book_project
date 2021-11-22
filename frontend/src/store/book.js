@@ -43,10 +43,6 @@ export default {
           books: _.uniqBy(documents, 'isbn'),
           message: '',
         });
-        console.log(api);
-        console.log(documents);
-        console.log(total_count);
-        console.log(typeof total_count);
 
         const pageLength = Math.ceil(total_count / 10);
 
