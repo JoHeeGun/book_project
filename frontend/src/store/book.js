@@ -16,10 +16,6 @@ export default {
         state[key] = payload[key];
       });
     },
-    resetBooks(state) {
-      state.books = [];
-      state.message = '';
-    },
   },
   actions: {
     async searchBooks({ commit }, payload) {
