@@ -1,6 +1,6 @@
 # MBP
   * ## 🗣 프로젝트 소개
-  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23fe158a-b205-4ed8-a121-c4edd0072df3/%EA%B2%80%EC%83%89.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T153120Z&X-Amz-Expires=86400&X-Amz-Signature=5eda74df6c41ae1be9957811ec2ff089b89f22e2f2e9d0b0bf570a0b181e36db&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B2%2580%25EC%2583%2589.PNG.png%22)   
+  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23fe158a-b205-4ed8-a121-c4edd0072df3/%EA%B2%80%EC%83%89.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T063940Z&X-Amz-Expires=86400&X-Amz-Signature=6bff620943854a00543547ec2193dd5cda2212277b27729752c00d04ef02c4aa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B2%2580%25EC%2583%2589.PNG.png%22&x-id=GetObject)   
 MBP는 My Book Post의 줄임말로 책에대한 자신만의 생각을 개인적인 공간에 포스팅 할 수 있는 웹페이지입니다.   
 개인적인 포스팅공간에 자유롭게 포스팅할 수 있고, 카카오Developers의 검색 API를 활용하여 원하는 책의 정보를 얻을 수 있습니다.   
 포스팅된 게시물들은 개인적인 공간에 보관되며 자신의 포스팅된 게시글은 추후에 자유롭게 찾아보고 생각해 볼 수 있습니다.
