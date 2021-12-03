@@ -25,7 +25,7 @@ useAPI : kakao Developers Daum검색 API
  
  <details><summary>로그인</summary>
  
-  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a9233a7-d756-4ce6-96b9-e5bdfe9e573a/%E3%84%B9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T153854Z&X-Amz-Expires=86400&X-Amz-Signature=d6d3aa42d06f75900b58cb6250dfe44a4ba722d3a5d692c8201ae3b67b3947a6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2584%25B9.png%22)   
+  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a9233a7-d756-4ce6-96b9-e5bdfe9e573a/%E3%84%B9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T064024Z&X-Amz-Expires=86400&X-Amz-Signature=ac42d140a22b2983ea242a83442000431c0797d5329f7f04cff438a34d9e34d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2584%25B9.png%22&x-id=GetObject)   
   * 로그인페이지 -> 아이디,비밀번호입력 -> 로그인버튼 -> 로그인
   * 우측 상단의 로그인탭 클릭 후 로그인페이지로 이동   
   * 이메일형식으로 아이디작성 (ex: joheegun@gmail.com)   
@@ -34,7 +34,7 @@ useAPI : kakao Developers Daum검색 API
  </details> 
  <details><summary>회원가입</summary>
  
-  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9dda1e7e-232d-4579-ace7-b06c76ed77d8/%ED%9A%8C%EC%9B%90.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T154038Z&X-Amz-Expires=86400&X-Amz-Signature=948a6ce8c1363f815fd663288effe60e3e0cc3822f08e77d94a803ab31013929&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25ED%259A%258C%25EC%259B%2590.png%22)   
+  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9dda1e7e-232d-4579-ace7-b06c76ed77d8/%ED%9A%8C%EC%9B%90.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T064051Z&X-Amz-Expires=86400&X-Amz-Signature=3d6be73297bf9f7e74b0ff32946b3bda5699172b538d0f9da488ff05b7b5ca76&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25ED%259A%258C%25EC%259B%2590.png%22&x-id=GetObject)   
   * 회원가입페이지 -> 아이디,비밀번호등 개인정보 입력 -> 회원가입버튼 -> 회원가입완료
   * 상단의 회원가입탭 클릭 후 회원가입페이지로 이동   
   * 이메일형식으로 아이디작성   
@@ -42,8 +42,8 @@ useAPI : kakao Developers Daum검색 API
   </details>  
  <details><summary>책 검색</summary>
  
-  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8518dbb-dd27-42ab-b657-bab71f704790/%E3%85%88.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T154219Z&X-Amz-Expires=86400&X-Amz-Signature=348524afad7434829b27add26fcd1eb7ee77072b9b54e613035e93f1494009fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%2588.png%22)   
-   ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb0fb969-6a89-47cd-b079-d585ddac0ff7/%E3%85%91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T154232Z&X-Amz-Expires=86400&X-Amz-Signature=b7f20b068958fa351d9516c3d2c18ef794fe6bad61e96638d1db9b570843115e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%2591.png%22)   
+  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8518dbb-dd27-42ab-b657-bab71f704790/%E3%85%88.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T064114Z&X-Amz-Expires=86400&X-Amz-Signature=29acc17c1934aa96b57071255ea61041b7a05f6614fc7c9136fab2a043589ecb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%2588.png%22&x-id=GetObject)   
+   ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb0fb969-6a89-47cd-b079-d585ddac0ff7/%E3%85%91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T064126Z&X-Amz-Expires=86400&X-Amz-Signature=73e305f29c843d7838f1379495b1153d047dc054b9d92ecd0fa4c260e08a2338&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%2591.png%22&x-id=GetObject)   
   * 상단 책 검색탭 클릭 후 검색페이지 이동
   * 로그인이 되어 있지 않는 비회원도 이용 가능한 서비스           
   * 원하는 검색조건을 설정하고 검색버튼클릭   
@@ -52,8 +52,8 @@ useAPI : kakao Developers Daum검색 API
   </details>  
  <details><summary>나만의 포스트</summary>
  
-  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6309d035-8699-48d3-b4e6-0d72be65a886/%E3%85%8D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T154654Z&X-Amz-Expires=86400&X-Amz-Signature=35b07d60af6e9b55fd17a825c50eaf784c1c0a956d56ff97053bfd48bd9dd2de&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%258D.png%22)    
-   ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39c15ff3-87d7-4fd4-9f53-d1d291cce72e/%E3%85%8B.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T154708Z&X-Amz-Expires=86400&X-Amz-Signature=dbb63cf3cc1b03d9dfd3a9d936c5947dbc285282ace63145bda9cf7459c43ffa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%258B.png%22)    
+  ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6309d035-8699-48d3-b4e6-0d72be65a886/%E3%85%8D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T064145Z&X-Amz-Expires=86400&X-Amz-Signature=79e8d6b390f099e075e887796a949ca8c2a4ca410e32a6a01f0b54c66e3a2561&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%258D.png%22&x-id=GetObject)    
+   ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39c15ff3-87d7-4fd4-9f53-d1d291cce72e/%E3%85%8B.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T064157Z&X-Amz-Expires=86400&X-Amz-Signature=4451a892e4cfc9a1b9f45c5b0fe09c74c3fe8e02b07482174d79842285880b63&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E3%2585%258B.png%22&x-id=GetObject)    
   * 상단 나만의포스트탭 클릭 후 페이지 이동
   * 로그인이 되어있는 회원만 이용가능한 서비스   
   * 우측하단 작성아이콘 클릭 후 작성페이지 이동         
