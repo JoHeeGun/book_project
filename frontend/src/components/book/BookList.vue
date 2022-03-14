@@ -9,6 +9,14 @@
       <div v-else class="books">
         <BookItem v-for="book in books" :key="book.isbn" :book="book" />
       </div>
+      <div>
+        <el-pagination
+          layout="prev, pager, next"
+          :total="searchs.total_count"
+          :current-page.sync="pages"
+        >
+        </el-pagination>
+      </div>
     </div>
   </div>
 </template>
