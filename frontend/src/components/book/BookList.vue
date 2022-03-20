@@ -2,9 +2,7 @@
   <div class="container">
     <div :class="{ 'no-result': !books.length }" class="inner">
       <div v-if="message" class="message">
-        {{ message }} <br />
-        {{ message2 }} <br />
-        {{ message3 }}
+        {{ message }}
       </div>
       <div v-else class="books">
         <BookItem v-for="book in books" :key="book.isbn" :book="book" />

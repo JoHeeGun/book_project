@@ -5,9 +5,7 @@ export default {
   namespaced: true,
   state: () => ({
     books: [],
-    message: '1.정령방식 accuracy(정확도순) / latest(발간일순) ',
-    message2: '2.검색필드제한 title(제목) / publisher(출판사) / person(인명)',
-    message3: '3.한 페이지에 보여질 문서 수 10,20,30,40,50',
+    message: '궁금한 책에 대해서 검색해 보세요!',
   }),
   getters: '',
   mutations: {
