@@ -20,6 +20,7 @@
     <!-- <el-button type="warning" @click="$router.push('/EditUser')"
       >회원 수정</el-button
     > -->
+    <!-- 깃 아이디 확인 테스트 -->
     <el-button type="warning" @click="userDeleted">회원 삭제</el-button>
   </div>
 </template>
