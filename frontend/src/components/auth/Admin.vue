@@ -59,10 +59,12 @@ export default {
 
   computed: {
     ...mapState('auth', ['id', 'userList', 'total']),
+
     pages: {
       get() {
         return this.$store.state.auth.page;
       },
+
       set(page) {
         this.$store.dispatch('auth/fetchUserList', {
           page: page,
@@ -78,6 +80,7 @@ export default {
       const data = val.id;
       this.$router.push(`/UserInfo/${data}`);
     },
+
     search() {
       this.$store.dispatch('auth/fetchUserList', {
         page: 1,
